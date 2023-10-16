@@ -17,7 +17,7 @@
 }
   
 html {
-    font-size: 62.5%;
+    font-size: 61.5%;
     overflow-x: hidden;
     scroll-behavior: smooth;
     scroll-padding-top: 5rem;
@@ -42,7 +42,7 @@ section {
 
 .btn {
     margin-top: 1rem;
-    display: inline-block;
+    display: inline-block ;
     border: 0.2rem solid #10221b;
    
   
@@ -186,7 +186,7 @@ section {
 }
   
 .search-form form input {
-    width: 100%;
+    width: 99%;
     font-size: 2rem;
     color: #fff;
     text-transform: none;
